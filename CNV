@@ -1,0 +1,10 @@
+http://ghr.nlm.nih.gov/handbook/mutationsanddisorders/copynumbervariation-
+
+https://en.wikipedia.org/wiki/Copy-number_variation
+  Copy-number variations (CNVs)—a form of structural variation—are alterations of the DNA of a genome that results in the cell having an abnormal or, for certain genes, a normal variation in the number of copies of one or more sections of the DNA. CNVs correspond to relatively large regions of the genome that have been deleted (fewer than the normal number) or duplicated (more than the normal number) on certain chromosomes. For example, the chromosome that normally has sections in order as A-B-C-D might instead have sections A-B-C-C-D (a duplication of "C") or A-B-D (a deletion of "C").
+  This variation accounts for roughly 13% of human genomic DNA and each variation may range from about one kilobase (1,000 nucleotide bases) to several megabases in size.[1] CNVs contrast with single-nucleotide polymorphisms (SNPs), which affect only one single nucleotide base.
+  CNV in short repeated DNA sequences called microsatellites can arise through additional mechanisms including replication slippage and defective mismatch repair.[8][9] The resulting microsatellite instability is characteristic of some cancers and underlies a family of genetic disorders including Huntington's disease and myotonic dystrophy
+  
+ Python code:
+ webbrowser.open_new('http://dgv.tcag.ca/dgv/app/search?ref=GRCh37/hg19#tabs-
+True_all_info_variant')
